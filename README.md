@@ -1,9 +1,6 @@
 
 # Tree Map Visualization
-
-
-
-
+![Project Preview](preview.png)
 
 ## Overview
 
@@ -19,6 +16,7 @@ This project implements an interactive **Tree Map** visualization using **D3.js*
 The goal of this project is to build a **Tree Map** that dynamically displays hierarchical data with color-coded categories. Users can hover over individual blocks (representing items) to see detailed information, such as the item name, category, and value. 
 
 ## Potential Applications in Financial Markets
+![Project Preview](stockMarketTreeMap.png)
 
 The **Tree Map** visualization can have significant applications in the financial markets, helping analysts, investors, and traders make informed decisions. Here are a few examples:
 
